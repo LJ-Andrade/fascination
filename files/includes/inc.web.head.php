@@ -5,13 +5,12 @@
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <!-- Stylesheets -->
 <link href="../../../skin/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../../../skin/css/smartmenus.bootstrap.css" rel="stylesheet" type="text/css" /> <!-- Smart Menu -->
 <link href="../../../skin/css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
 <link href="../../../skin/css/webstyles.css" rel="stylesheet" type="text/css" media="all" />
 
 
-<!-- Smart Menu -->
-<link href="../../../skin/css/smartmenus.bootstrap.css" rel="stylesheet" type="text/css" />
-<link href="../../../skin/css/smartmenus.theme.css" rel="stylesheet" type="text/css" />
+
 <!--  Optional -->
 
 
