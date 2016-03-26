@@ -8,7 +8,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php">FasoNation</a>
+            <a class="navbar-brand" href="index.php"><img src="../../../skin/images/body/logos/logo.png" class="img-responsive logo" alt=""></a>
           </div>
           <div class="navbar-collapse collapse">
    
